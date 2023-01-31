@@ -41,7 +41,7 @@ public class App {
     System.out.println( foo("Hello", "world!") );
     System.out.println( bar() );
     baz();
-    //hello
+
     // complete this function according to the instructions.
     
   
